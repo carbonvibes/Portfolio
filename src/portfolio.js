@@ -36,7 +36,7 @@ const socialMediaLinks = {
   github: "https://github.com/carbonvibes/",
   linkedin: "https://linkedin.com/in/arjunsekar2004/",
   gmail: "arjun.sekar@iitgn.ac.in",
-  gitlab: "https://gitlab.com/saadpasta",
+  instagram: "https://gitlab.com/saadpasta",
   //facebook: "https://www.facebook.com/saad.pasta7",
   //medium: "https://medium.com/@saadpasta",
   //stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
@@ -128,21 +128,21 @@ const educationInfo = {
     {
       schoolName: "Indian Institute of Technology Gandhinagar",
       logo: require("./assets/images/iitgn.png"),
-      subHeader: "BTech Electrical Engineering",
-      duration: "September 2022 - May 2026",
-      desc: "Participated in the research of XXX and published 3 papers.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
+      subHeader: "BTech Electrical Engineering, Minor in Computer Science Engineering",
+      duration: "October 2022 - April 2026",
+      //desc: "Participated in the research of XXX and published 3 papers.",
+      //descBullets: [
+      //  "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      //  "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      //]
     },
     {
-      schoolName: "Stanford Universinty",
+      schoolName: "Chettinad Vidyashram",
       logo: require("./assets/images/cv.png"),
-      subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      subHeader: "Computer Science Stream",
+      duration: "October 2010 - May 2022",
+      //desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
+      //descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
     }
   ]
 };
