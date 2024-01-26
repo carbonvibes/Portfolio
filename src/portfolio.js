@@ -34,9 +34,9 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/carbonvibes/",
-  LinkedIn: "https://www.linkedin.com/in/arjunsekar2004/",
+  LinkedIn: "https://linkedin.com/in/arjunsekar2004/",
   gmail: "arjun.sekar@iitgn.ac.in",
-  //gitlab: "https://gitlab.com/saadpasta",
+  gitlab: "https://gitlab.com/saadpasta",
   //facebook: "https://www.facebook.com/saad.pasta7",
   //medium: "https://medium.com/@saadpasta",
   //stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
