@@ -22,7 +22,7 @@ const illustration = {
 const greeting = {
   username: "Arjun Sekar",
   title: "Hi all, I'm Arjun",
-  subTitle: emoji("Hello LinkedIn Community! I'm Arjun Sekar, currently a second-year undergraduate majoring in Electrical Engineering at IIT Gandhinagar. Passionate about the world of technology, I find myself immersed in the elegance of code, particularly in Python programming. My academic journey fuels my love for solving intricate problems, and I'm dedicated to pushing the boundaries of what's possible in the field."),
+  subTitle: emoji("Greetings Community! I'm Arjun Sekar, a second-year undergraduate majoring in Electrical Engineering at IIT Gandhinagar. Immersed in the world of technology, I have a passion for coding, especially in Python. As my academic journey unfolds, I not only solve intricate problems but also fuel my passion for cybersecurity, dedicated to pushing the boundaries of what's possible at the intersection of techmology and digital security."),
   resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing",
   displayGreeting: true
 };
