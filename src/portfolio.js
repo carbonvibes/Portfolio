@@ -153,17 +153,22 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Frontend/Design", //Insert stack or technology you have experience in
-      progressPercentage: "90%" //Insert relative proficiency in percentage
+      Stack: "Python", //Insert stack or technology you have experience in
+      progressPercentage: "80%" //Insert relative proficiency in percentage
     },
     {
-      Stack: "Backend",
+      Stack: "MySQL",
       progressPercentage: "70%"
     },
     {
-      Stack: "Programming",
+      Stack: "Bash",
+      progressPercentage: "60%"
+    },
+    {
+      Stack: "C",
       progressPercentage: "60%"
     }
+    
   ],
   displayCodersrank: true // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
@@ -360,9 +365,9 @@ const podcastSection = {
 };
 
 const contactInfo = {
-  title: emoji("Contact Me ☎️"),
+  title: emoji("Get in touch with me📱"),
   subtitle:
-    "Discuss a project or just want to say hi? My Inbox is open for all.",
+    "Drop me an email or send me a connection request in LinkedIn.",
   number: "XYZ",
   email_address: "arjun.sekar@iitgn.ac.in"
 };
