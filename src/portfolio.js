@@ -70,15 +70,15 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "C",
-      fontAwesomeClassname: "fab fa-c"
+      fontAwesomeClassname: "fa-solid fa-c"
     },
     {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
+      skillName: "SQL",
+      fontAwesomeClassname: "fa-solid fa-database"
     },
     {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
+      skillName: "Bash",
+      fontAwesomeClassname: "fa-solid fa-code"
     },
     {
       skillName: "reactjs",
