@@ -78,7 +78,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Bash",
-      fontAwesomeClassname: "fas fa-code"
+      fontAwesomeClassname: "fab fa-code"
     },
     {
       skillName: "reactjs",
