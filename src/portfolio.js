@@ -129,7 +129,6 @@ const educationInfo = {
       schoolName: "Indian Institute of Technology Gandhinagar",
       logo: require("./assets/images/iitgn.png"),
       subHeader: "BTech Electrical Engineering",
-      subHeader: "Minor in Computer Science Engineering",
       duration: "September 2022 - May 2026",
       desc: "Participated in the research of XXX and published 3 papers.",
       descBullets: [
@@ -138,7 +137,7 @@ const educationInfo = {
       ]
     },
     {
-      schoolName: "Stanford University",
+      schoolName: "Stanford Universinty",
       logo: require("./assets/images/cv.png"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "September 2013 - April 2017",
