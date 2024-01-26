@@ -22,13 +22,13 @@ const illustration = {
 const greeting = {
   username: "Arjun Sekar",
   title: "Hi all, I'm Arjun",
-  subTitle: emoji(
-    "👋 Hello Community! I'm Arjun Sekar, a passionate second-year undergraduate majoring in Electrical Engineering at IIT Gandhinagar. With a flair for Python programming, I revel in the elegance of code and thrive on solving intricate problems. Beyond the academic corridors, I channel my passion into the thrilling realm of Capture The Flag (CTF) competitions, where I continually hone my skills in Cybersecurity and Ethical Hacking. Intrigued by the ever-evolving landscape of digital security, I am on a mission to unravel its complexities. From crafting robust solutions to hacking exploits, I am captivated by the dynamic interpolation between technology and security. Let's connect and explore the possibilities at the intersection of innovation and cybersecurity. I'm open to engaging in discussions, collaborative ventures, and opportunities that push the boundaries of what's possible."
-  ),
-  resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
-  displayGreeting: true // Set false to hide this section, defaults to true
+  subTitle: `<p style="font-size: 14px; text-align: justify;">
+    👋 Hello Community! I'm Arjun Sekar, a passionate second-year undergraduate majoring in Electrical Engineering at IIT Gandhinagar. With a flair for Python programming, I revel in the elegance of code and thrive on solving intricate problems. Beyond the academic corridors, I channel my passion into the thrilling realm of Capture The Flag (CTF) competitions, where I continually hone my skills in Cybersecurity and Ethical Hacking. Intrigued by the ever-evolving landscape of digital security, I am on a mission to unravel its complexities. From crafting robust solutions to hacking exploits, I am captivated by the dynamic interpolation between technology and security. Let's connect and explore the possibilities at the intersection of innovation and cybersecurity. I'm open to engaging in discussions, collaborative ventures, and opportunities that push the boundaries of what's possible.
+  </p>`,
+  resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing",
+  displayGreeting: true
 };
+
 
 // Social Media Links
 
