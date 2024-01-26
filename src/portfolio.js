@@ -22,9 +22,7 @@ const illustration = {
 const greeting = {
   username: "Arjun Sekar",
   title: "Hi all, I'm Arjun",
-  subTitle: `<p style="font-size: 14px; text-align: justify;">
-    👋 Hello Community! I'm Arjun Sekar, a passionate second-year undergraduate majoring in Electrical Engineering at IIT Gandhinagar. With a flair for Python programming, I revel in the elegance of code and thrive on solving intricate problems. Beyond the academic corridors, I channel my passion into the thrilling realm of Capture The Flag (CTF) competitions, where I continually hone my skills in Cybersecurity and Ethical Hacking. Intrigued by the ever-evolving landscape of digital security, I am on a mission to unravel its complexities. From crafting robust solutions to hacking exploits, I am captivated by the dynamic interpolation between technology and security. Let's connect and explore the possibilities at the intersection of innovation and cybersecurity. I'm open to engaging in discussions, collaborative ventures, and opportunities that push the boundaries of what's possible.
-  </p>`,
+  subTitle: emoji("Hello LinkedIn Community! I'm Arjun Sekar, currently a second-year undergraduate majoring in Electrical Engineering at IIT Gandhinagar. Passionate about the world of technology, I find myself immersed in the elegance of code, particularly in Python programming. My academic journey fuels my love for solving intricate problems, and I'm dedicated to pushing the boundaries of what's possible in the field."),
   resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing",
   displayGreeting: true
 };
@@ -73,7 +71,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fas fa-c"
     },
     {
-      skillName: "SQL",
+      skillName: "MySQL",
       fontAwesomeClassname: "fas fa-database"
     },
     {
@@ -81,27 +79,27 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fas fa-code"
     },
     {
-      skillName: "reactjs",
+      skillName: "eBPF",
       fontAwesomeClassname: "fab fa-react"
     },
     {
-      skillName: "nodejs",
+      skillName: "Linux",
       fontAwesomeClassname: "fab fa-node"
     },
     {
-      skillName: "swift",
+      skillName: "Tkinter",
       fontAwesomeClassname: "fab fa-swift"
     },
     {
-      skillName: "npm",
+      skillName: "Metasploit",
       fontAwesomeClassname: "fab fa-npm"
     },
     {
-      skillName: "sql-database",
+      skillName: "CTF",
       fontAwesomeClassname: "fas fa-database"
     },
     {
-      skillName: "aws",
+      skillName: "===",
       fontAwesomeClassname: "fab fa-aws"
     },
     {
