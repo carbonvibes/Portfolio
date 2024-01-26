@@ -70,15 +70,15 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "C",
-      fontAwesomeClassname: "fa-solid fa-c"
+      fontAwesomeClassname: "fas fa-c"
     },
     {
       skillName: "SQL",
-      fontAwesomeClassname: "fa-solid fa-database"
+      fontAwesomeClassname: "fas fa-database"
     },
     {
       skillName: "Bash",
-      fontAwesomeClassname: "fa-solid fa-code"
+      fontAwesomeClassname: "fas fa-code"
     },
     {
       skillName: "reactjs",
@@ -165,7 +165,7 @@ const techStack = {
       progressPercentage: "60%"
     }
   ],
-  displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
+  displayCodersrank: true // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
 
 // Work experience section
