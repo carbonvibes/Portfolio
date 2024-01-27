@@ -194,6 +194,14 @@ const workExperiences = {
       companylogo: require("./assets/images/iitgn.png"),
       date: "August 2023 – Present",
       desc: "As the Mess in-charge at IT Gandhinagar, I effectively managed operations and staff, ensuring top-notch food service, hygiene standards, and seamless meal planning for a quality dining experience and learned a lot and yet still learning through this journey."
+    },
+    {
+       {
+      role: "Software Engineer Intern",
+      company: "Airbnb",
+      companylogo: require("./assets/images/airbnbLogo.png"),
+      date: "Jan 2015 – Sep 2015",
+      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
   ]
 };
@@ -357,7 +365,7 @@ const podcastSection = {
 };
 
 const contactInfo = {
-  title: emoji("Get in touch with me📱"),
+  title: emoji("Get in touch 📱"),
   subtitle:
     "Drop me an email or send me a connection request in LinkedIn.",
   number: "XYZ",
