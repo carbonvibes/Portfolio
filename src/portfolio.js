@@ -177,29 +177,23 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "Peer Mentor",
+      company: "Indian Institute of Technology Gandhinagar",
+      companylogo: require("./assets/images/iitgn.png"),
+      date: "September 2023 – Present",
+      desc: "As a Peer Mentor at IT Gandhinagar, I provide guidance and support to fellow students, fostering a collaborative learning environment and contributing to the academic success of my peers.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "As a Peer Mentor at IIT Gandhinagar, I specialize in providing assistance with English language proficiency to fellow students.",
+        "Offer guidance and support in various academic subjects, ensuring a comprehensive understanding of coursework",
+        "Address and help them resolve academic issues, fostering a positive and inclusive learning environment."
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    },
-    {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Menu Incharge, Mess Council",
+      company: "Indian Institute of Technology Gandhinagar",
+      companylogo: require("./assets/images/iitgn.png"),
+      date: "August 2023 – Present",
+      desc: "As the Mess in-charge at IT Gandhinagar, I effectively managed operations and staff, ensuring top-notch food service, hygiene standards, and seamless meal planning for a quality dining experience and learned a lot and yet still learning through this journey."
     }
   ]
 };
@@ -208,7 +202,7 @@ const workExperiences = {
 To know how to get github key look at readme.md */
 
 const openSource = {
-  showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
+  showGithubProfile: true, // Set true or false to show Contact profile using Github, defaults to true
   display: true // Set false to hide this section, defaults to true
 };
 
