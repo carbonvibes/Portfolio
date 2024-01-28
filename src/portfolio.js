@@ -180,11 +180,11 @@ const workExperiences = {
       role: "Peer Mentor",
       company: "Indian Institute of Technology Gandhinagar",
       companylogo: require("./assets/images/iitgn.png"),
-      date: "September 2023 – Present",
+      date: "Sep 2023 – Present",
       desc: "As a Peer Mentor at IIT Gandhinagar, I provide guidance and support to fellow students, fostering a collaborative learning environment and contributing to the academic success of my peers.",
       descBullets: [
         "As a Peer Mentor at IIT Gandhinagar, I specialize in providing assistance with English language proficiency to fellow students.",
-        "Offer guidance and support in various academic subjects, ensuring a comprehensive understanding of coursework",
+        "Offer guidance and support in various academic subjects, ensuring a comprehensive understanding of coursework.",
         "Address and help them resolve academic issues, fostering a positive and inclusive learning environment."
       ]
     },
@@ -192,15 +192,15 @@ const workExperiences = {
       role: "Menu Incharge, Mess Council",
       company: "Indian Institute of Technology Gandhinagar",
       companylogo: require("./assets/images/iitgn.png"),
-      date: "August 2023 – Present",
+      date: "Aug 2023 – Present",
       desc: "As the Mess in-charge at IT Gandhinagar, I effectively managed operations and staff, ensuring top-notch food service, hygiene standards, and seamless meal planning for a quality dining experience and learned a lot and yet still learning through this journey."
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Club Member, Systems Programming Club",
+      company: "Indian Institute of Technology",
+      companylogo: require("./assets/images/iitgn.png"),
+      date: "Sep 2023 – Present",
+      desc: "At our Systems Programming Club at IITGN, we not only explore the depths of low-level software development but also add an exciting dimension through hosting captivating competitions like Capture The Flags (CTFs), creating an environment that challenges and hones our community's cybersecurity skills."
     }
   ]
 };
