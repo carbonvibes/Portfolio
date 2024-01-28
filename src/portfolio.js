@@ -181,7 +181,7 @@ const workExperiences = {
       company: "Indian Institute of Technology Gandhinagar",
       companylogo: require("./assets/images/iitgn.png"),
       date: "September 2023 – Present",
-      desc: "As a Peer Mentor at IT Gandhinagar, I provide guidance and support to fellow students, fostering a collaborative learning environment and contributing to the academic success of my peers.",
+      desc: "As a Peer Mentor at IIT Gandhinagar, I provide guidance and support to fellow students, fostering a collaborative learning environment and contributing to the academic success of my peers.",
       descBullets: [
         "As a Peer Mentor at IIT Gandhinagar, I specialize in providing assistance with English language proficiency to fellow students.",
         "Offer guidance and support in various academic subjects, ensuring a comprehensive understanding of coursework",
@@ -256,23 +256,15 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "Google Cybersecurity Professional Certificate",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
+        "Completed the Google Cybersecurity Professional certificate offered by Google on Coursera, Certificate earned on December 21, 2023.",
+      image: require("./assets/images/cyber.png"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
-        },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+          url: "https://coursera.org/verify/professional-cert/HX8ER93JST6L"
         }
       ]
     },
